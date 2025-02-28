@@ -7,7 +7,7 @@ from pyngrok import ngrok
 import time
 
 # Set up ngrok tunnel
-ngrok.set_auth_token("2tfJOAvSpeuqeDYkoe9d100zcSB_4KaV3bVjtKrnqPFGTdjYy")  # Replace with your actual token
+ngrok.set_auth_token("2tgkBaJlwUuDVZZCkvnX7kpg9V6_L9DJgKiypCjwgihzC3aE")  # Replace with your actual token
 
 # Terminate existing processes and wait for cleanup
 ngrok.kill()
