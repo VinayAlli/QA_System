@@ -1,0 +1,1 @@
+**The QA model implementation enhanced our project's ability to extract keywords from reviews and determine sentiment accurately. Integrating it into a web-based interface improved usability, aligning with our goal of building an interactive and efficient sentiment analysis system.**
