@@ -1,0 +1,8 @@
+streamlit>=1.12.0
+transformers>=4.25.1
+torch>=1.10.0
+numpy>=1.21.0
+pyngrok>=5.1.0
+protobuf>=3.20.0
+tokenizers>=0.13.2
+datasets>=2.0.0
